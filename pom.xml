@@ -13,7 +13,7 @@
         <dependency>
             <groupId>software.amazon.encryption.s3</groupId>
             <artifactId>amazon-s3-encryption-client-java</artifactId>
-            <version>3.4.0</version>
+            <version>3.6.1</version>
         </dependency>
     </dependencies>
 </project>

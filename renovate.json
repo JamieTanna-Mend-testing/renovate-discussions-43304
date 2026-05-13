@@ -4,8 +4,9 @@
     "config:recommended",
     "customManagers:mavenPropertyVersions"
   ],
+  "osvVulnerabilityAlerts": true,
   "vulnerabilityAlerts": {
-    "enabled": true,
+    "enabled": false,
     "labels": [
       "security"
     ]

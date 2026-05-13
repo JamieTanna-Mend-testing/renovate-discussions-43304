@@ -6,7 +6,6 @@
   ],
   "osvVulnerabilityAlerts": true,
   "vulnerabilityAlerts": {
-    "enabled": false,
     "labels": [
       "security"
     ]
